@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "620816782244",
+    "project_id": "toko-abah-32482",
+    "storage_bucket": "toko-abah-32482.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620816782244:android:77ed284fcecb1577dc2731",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620816782244-2gfidspgfd0dc685njo9hj90mv8p3n3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKv80omlZUKlvbwaotXq-K6KKn_VBnxmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620816782244-2gfidspgfd0dc685njo9hj90mv8p3n3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620816782244:android:ee5d59e940d9dc3fdc2731",
+        "android_client_info": {
+          "package_name": "com.example.toko_abah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620816782244-2gfidspgfd0dc685njo9hj90mv8p3n3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKv80omlZUKlvbwaotXq-K6KKn_VBnxmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620816782244-2gfidspgfd0dc685njo9hj90mv8p3n3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
